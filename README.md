@@ -38,6 +38,13 @@ Konfigurasi default seluruh template, kecuali didefinisikan lain pada bagian `Da
 * box: `generic/alpine312`
 * hostname: `alpine312.local`
 
+### `centos7`
+
+* default name: `centos7`
+* box: `centos/7`
+* hostname: `centos7.local`
+* shared directory: `no shared directory!`
+
 ### `debian11`
 
 * default name: `bullseye64`
