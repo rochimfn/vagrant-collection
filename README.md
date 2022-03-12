@@ -20,7 +20,7 @@ vagrant halt
 ```
 
 ## Default Konfigurasi
-Konfigurasi default seluruh template, kecuali didefinisikan lain pada bagian `Daftar Template`.
+Konfigurasi default seluruh template, kecuali didefinisikan berbeda pada bagian `Daftar Template`.
 
 * provider: `virtualbox`
 * network: `bridge`
@@ -50,3 +50,11 @@ Konfigurasi default seluruh template, kecuali didefinisikan lain pada bagian `Da
 * default name: `bullseye64`
 * box: `debian/bullseye64`
 * hostname: `bullseye.local`
+
+### `ubuntu16`
+
+* default name: `xenial`
+* box: `bento/ubuntu-16.04`
+* hostname: `xenial.local`
+* memory: `2048`
+* cpu: `2`
