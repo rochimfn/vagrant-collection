@@ -51,6 +51,12 @@ Konfigurasi default seluruh template, kecuali didefinisikan berbeda pada bagian 
 * box: `debian/bullseye64`
 * hostname: `bullseye.local`
 
+### `rockylinux8`
+
+* default name: `rockylinux8`
+* box: `rockylinux/8`
+* hostname: `rockylinux8.local`
+
 ### `ubuntu16`
 
 * default name: `xenial`
