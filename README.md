@@ -51,6 +51,12 @@ Konfigurasi default seluruh template, kecuali didefinisikan berbeda pada bagian 
 * box: `debian/bullseye64`
 * hostname: `bullseye.local`
 
+### `fedora35`
+
+* default name: `fedora35`
+* box: `fedora/35-cloud-base`
+* hostname: `fedora35.local`
+
 ### `rockylinux8`
 
 * default name: `rockylinux8`
