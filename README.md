@@ -70,3 +70,11 @@ Konfigurasi default seluruh template, kecuali didefinisikan berbeda pada bagian 
 * hostname: `xenial.local`
 * memory: `2048`
 * cpu: `2`
+
+### `ubuntu22`
+
+* default name: `jammy`
+* box: `bento/ubuntu-22.04`
+* hostname: `jammy.local`
+* memory: `2048`
+* cpu: `2`
